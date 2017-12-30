@@ -85,3 +85,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 RANGER_LOAD_DEFAULT_RC="false"
+alias config='/usr/bin/git --git-dir=/home/png/.cfg/ --work-tree=/home/png'
